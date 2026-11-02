@@ -53,10 +53,10 @@ Lumora uses a warm, welcoming visual identity.
 
 ## 💻 Run Locally
 
-1. Clone this repository:
+1. Clone this repository: 
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   (https://github.com/nishanbhandari26-coder?tab=repositories)
    ```
 
 2. Open the project folder.
